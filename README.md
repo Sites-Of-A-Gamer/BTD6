@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:#00dcffff;">
+<body>
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">Exploring BTD6</h1>
 <img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" />
 <h2 style="font-family:Arial;font-size:20px;">Exploring the Dynamics of "Bloons Tower Defense 6": A Comprehensive Analysis</h2>
