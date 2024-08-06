@@ -1,16 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-} 
-h1   {background-color: #FFFFFF;}
-</style>
-</head>
 <body style="background-color:#00dcffff;">
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">Exploring BTD6</h1>
 <img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" />
