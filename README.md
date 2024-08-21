@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Title.jpg" alt="Exploring BTD6" class="center" width="500" height="300" />
+<img src="Title.jpg" alt="Exploring BTD6" class="center" width="750" height="100" />
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center"> </h1>
 <img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" />
 <h2 style="font-family:Arial;font-size:20px;">Exploring the Dynamics of "Bloons Tower Defense 6": A Comprehensive Analysis</h2>
