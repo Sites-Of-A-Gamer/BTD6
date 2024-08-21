@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">Exploring BTD6</h1>
+<img src="Title.jpg" alt="Exploring BTD6" class="center" width="500" height="300" />
+<h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center"> </h1>
 <img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" />
 <h2 style="font-family:Arial;font-size:20px;">Exploring the Dynamics of "Bloons Tower Defense 6": A Comprehensive Analysis</h2>
 <p style="font-family:Arial;font-size:20px;">Ninja Kiwi's "Bloons Tower Defence 6" (BTD6) is a significant addition to the tower defence genre. It was released in June 2018 and develops upon the firm bases set by its predecessors by combining interesting gameplay with an extensive level of strategy. This essay looks at the primary elements that contribute to making it successful, such as its aesthetic appeal, strategic depth, game mechanics, and community surrounding it.</p>
