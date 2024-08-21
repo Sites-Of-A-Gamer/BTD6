@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Title.jpg" alt="Exploring BTD6" class="center" width="750" height="100" />
+<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md"><img src="Title.jpg" alt="Exploring BTD6" class="center" width="750" height="100" /></a>
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center"> </h1>
-<img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" />
+<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md"> <img src="BTD6Logo.jpg" alt="BTD6Logo" class="center" width="500" height="300" /></a>
 <h2 style="font-family:Arial;font-size:20px;">Exploring the Dynamics of "Bloons Tower Defense 6": A Comprehensive Analysis</h2>
 <p style="font-family:Arial;font-size:20px;">Ninja Kiwi's "Bloons Tower Defence 6" (BTD6) is a significant addition to the tower defence genre. It was released in June 2018 and develops upon the firm bases set by its predecessors by combining interesting gameplay with an extensive level of strategy. This essay looks at the primary elements that contribute to making it successful, such as its aesthetic appeal, strategic depth, game mechanics, and community surrounding it.</p>
 <h3 style="font-family:Arial;font-size:20px;">Core Gameplay, Progression and Game Mechanics</h3>
@@ -23,6 +23,6 @@ The peace of gameplay is further enhanced by the game's graphic style. Players c
 <p style="font-family:Arial;font-size:20px;">"Bloons Tower Defense 6" exemplifies the strengths of the tower defense genre, combining engaging gameplay mechanics with strategic depth, appealing visuals, and a supportive community. Its ability to offer both immediate fun and long-term strategic challenges makes it a standout title in its field. By continuously evolving and engaging its player base, BTD6 has secured its place as a beloved game that continues to captivate and entertain.</p>
 <p style="font-family:Arial;font-size:30px;" align="center">To play download the game by clicking <a href="https://store.steampowered.com/app/960090/Bloons_TD_6/"style="color:#39FF14;">here.</a></p>
 <p style="font-family:Arial;font-size:20px;" align="center">This is the loading screen for the game, with my account details cropped out.</p>
-<img src="BTD6 Title Page.jpg" alt="BTD6 Title Page" class="center" width="1040.83333333" height="650" />
+<a href="https://github.com/Sites-Of-A-Gamer/BTD6/blob/main/README.md"> <img src="BTD6 Title Page.jpg" alt="BTD6 Title Page" class="center" width="1040.83333333" height="650" /></a>
 </body>
 </html>
